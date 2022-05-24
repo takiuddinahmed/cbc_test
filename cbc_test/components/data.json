@@ -1,0 +1,18 @@
+[
+    {
+      "name": "hri001.jpg",
+      "result": {
+        "rbc": 4400000,
+        "wbc": 5600,
+        "pletelets": 46
+      }
+    },
+    {
+      "name": "hri002.jpg",
+      "result": {
+        "rbc": 4400000,
+        "wbc": 5600,
+        "pletelets": 46
+      }
+    }
+  ]
